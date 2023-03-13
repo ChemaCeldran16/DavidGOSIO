@@ -3,7 +3,8 @@ import BotonBooleano from './componentes/BotonBooleano';
 import BotonFruta from './componentes/BotonFruta';
 import BotonMes from './componentes/BotonMes';
 import LogoEmpresaBien from './static/LogoEmpresaBien.png'
-import React, { Component } from "react"
+import React, { Component } from "react";
+import axios from 'axios';
 
 
 
